@@ -32,7 +32,7 @@ body {
 .container {
     max-width: 1170px;
 }
-
+/* some responsive */
 @media only screen and (max-width: 767px) {
     .container {
         width: 450px;
@@ -79,7 +79,7 @@ body {
 .offcanvas_menu {
     display: none;
 }
-
+/* responsive */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .offcanvas_menu {
         display: block;
@@ -106,7 +106,7 @@ body {
     top: 34px;
     z-index: 9;
 }
-
+/* responsive */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .canvas_open {
         right: 25px;
@@ -131,7 +131,7 @@ body {
     color: #555;
     border: 1px solid #555;
 }
-
+/* responsive */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .canvas_open a {
         width: 33px;
