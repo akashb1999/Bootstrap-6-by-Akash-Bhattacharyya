@@ -23,4 +23,4 @@ An Alcohol-Based website that shows various Products, catalogs, reviews, and tes
 
 1. Clone the repository  
    ```bash
-    https://akashb1999.github.io/Bootstrap-7-by-Akash-Bhattacharyya--Cake-/
+     https://akashb1999.github.io/Bootstrap-6-by-Akash-Bhattacharyya/
