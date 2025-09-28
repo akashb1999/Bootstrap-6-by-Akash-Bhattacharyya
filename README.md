@@ -1,6 +1,6 @@
 # Wine site by Akash Bhattacharyya.
 
-A Alcoholic-Based Website that shows various Products, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
+An Alcohol-Based website that shows various Products, catalogs, reviews, and testimonials,  using HTML, CSS, and JavaScript.
 
 
 ## 🔧 Technologies Used
