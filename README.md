@@ -23,4 +23,4 @@ A Alcoholic-Based Website that shows various Products, catalogs, reviews, and te
 
 1. Clone the repository  
    ```bash
-    https://akashb1999.github.io/Restaurant/
+    https://akashb1999.github.io/Bootstrap-6-by-Akash-Bhattacharyya/
